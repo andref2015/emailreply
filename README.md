@@ -13,6 +13,7 @@ Here's how to get started:
 
 #### DOWNLOAD FOLDER
 1. Download the ZIP folder of this repository (click on the green "Code" button -> Download zip)  
+2. Double click on the ZIP folder to open it, so it creates a normal, non-ZIP folder.
 
 #### SETUP YOUR OPENAI API KEY  
 1. Go to https://beta.openai.com/account/api-keys and copy your API key.  
