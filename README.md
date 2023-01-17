@@ -24,7 +24,7 @@ Here's how to get started:
 2. Go to chrome://extensions/ (or click on Extensions -> Manage Extensions)
 3. Toggle "Developer Mode" to "on" in the top right  
 4. Click on "Load unpacked"  
-5. Select the 'email_reply' folder (NOT the 'Email-Reply-main')
+5. Select the 'emailreply-main' folder
 
 That's it! Open any email you (don't) want to reply to, then simply highlight the email text and right click to select "Email Reply" from the context menu.
 
